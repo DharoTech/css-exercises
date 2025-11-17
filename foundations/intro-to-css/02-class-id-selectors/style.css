@@ -3,15 +3,17 @@
     background-color: #ffb5c0;
     font-family: 'verdana', 'DejaVu sans', 'sans-serif';
 }
-.third-element {
-    font-size: 24px;
-}
+
 #second-element {
     color: #0000ff;
     font-size: 36px;
 }
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
 #fourth-element {
     background-color: #88e788;
-    font-size: 24px;
     font-weight: bold;
 }
